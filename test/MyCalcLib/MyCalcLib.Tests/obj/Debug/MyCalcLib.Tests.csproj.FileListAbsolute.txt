@@ -1,0 +1,9 @@
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib.Tests\bin\Debug\MyCalcLib.Tests.dll
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib.Tests\bin\Debug\MyCalcLib.Tests.pdb
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib.Tests\bin\Debug\MyCalcLib.dll
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib.Tests\bin\Debug\MyCalcLib.pdb
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib.Tests\obj\Debug\MyCalcLib.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib.Tests\obj\Debug\MyCalcLib.Tests.dll
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib.Tests\obj\Debug\MyCalcLib.Tests.pdb

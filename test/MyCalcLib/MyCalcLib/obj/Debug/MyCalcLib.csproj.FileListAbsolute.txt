@@ -1,0 +1,5 @@
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib\bin\Debug\MyCalcLib.dll
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib\bin\Debug\MyCalcLib.pdb
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.dll
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.pdb
+C:\Users\Марина\Desktop\универ\трпо\test\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.csprojResolveAssemblyReference.cache
