@@ -1,2 +1,4 @@
 language: csharp
 solution: calculator/calculator.sln
+script:
+  - ./build.sh
