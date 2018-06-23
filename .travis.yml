@@ -1,4 +1,4 @@
 language: csharp
 solution: calculator/calculator.sln
 script:
-  - calculator/calculator/Form1.cs
+  - calculator/Form1.cs
