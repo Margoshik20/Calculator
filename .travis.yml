@@ -1,3 +1,4 @@
 language: csharp
-solution: calculator.sln
-
+solution: calculator/calculator.sln
+script:
+  - calculator/calculator/Form1.cs
